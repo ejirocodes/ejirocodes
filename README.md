@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏽👋🏽👋🏽
+My name is Ejiro Asiuwhu . 
+I'm a Frontend Developer at Codekago, currently building world class products driven by innovation.
 
 
 - 🔭 I’m currently working on ...
