@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ejirocodes/ejirocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Nodejs, Express, MongoDB, React Native
@@ -16,4 +12,3 @@ Here are some ideas to get you started:
 <a href="https://dev.to/ejirocodes">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ejiro Asiuwhu's DEV Profile" height="30" width="30">
 </a>
--->
