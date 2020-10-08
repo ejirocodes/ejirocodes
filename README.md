@@ -11,7 +11,10 @@ I'm a Frontend Developer at Codekago, currently building world class products dr
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Visitor Count](https://profile-counter.glitch.me/ejirocodes/count.svg)
+
 <a href="https://dev.to/ejirocodes">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ejiro Asiuwhu's DEV Profile" height="30" width="30">
 </a>
+
+#### Visitors count
+![Visitor Count](https://profile-counter.glitch.me/ejirocodes/count.svg) 
