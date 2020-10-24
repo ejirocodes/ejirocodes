@@ -3,7 +3,7 @@ My name is Ejiro Asiuwhu .
 I'm a Frontend Developer at [Codekago](https://codekago.com) , currently building world class products driven by innovation.
 
 - 🔭 I’m currently working on the next big product
-- 🌱 I’m currently learning Nodejs, Express, MongoDB, React Native
+- 🌱 I’m currently learning Nodejs, Express, MongoDB && Angular
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything about JavaScript and its ecosystem
