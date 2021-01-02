@@ -4,9 +4,8 @@ I'm a JavaScript Developer with industry experience in building scalable and per
 
 - 🔭 I’m currently working on the next big product 🚀🚀🚀
 - 🌱 I’m currently learning React Native
-- 💬 Ask me about anything about JavaScript and its ecosystem
-- 📫 How to reach me via email: <a href="mailto:ejiroasiuwhu10@gmail.com">ejiroasiuwhu10@gmail.com</a>
-- 😄 Pronouns: He/Him
+- 💬 Ask me about anything about JavaScript, React/Nextjs, Vue/Nuxt, Nodejs, Web Accessibility, Technical Writing 
+- 📫 How to reach me: [@developerayo](https://twitter.com/ejirocodes)
 - ⚡ Fun fact: I love to cycle 🚴🏾‍♂️
 
 
