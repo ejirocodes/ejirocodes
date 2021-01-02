@@ -1,4 +1,4 @@
-### Hi there 👋🏽👋🏽👋🏽
+### Hi there 👋
 My name is Ejiro Asiuwhu. 
 I'm a JavaScript Developer with industry experience in building scalable and performant applications that runs on the web and your smart phone with cutting-edge technology.
 
@@ -10,6 +10,5 @@ I'm a JavaScript Developer with industry experience in building scalable and per
 - ⚡ Fun fact: I love cycling, like mad 🚴🏽‍♂️🚴🏽‍♂️🚴🏽‍♂️ 
 
 
+![Profile views](https://gpvc.arturio.dev/ejirocodes)
 
-#### Visitors count
-![Visitor Count](https://profile-counter.glitch.me/ejirocodes/count.svg) 
