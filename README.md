@@ -1,4 +1,4 @@
-### Hey there 👋🏽
+### Hi there 👋🏽
 My name is Ejiro Asiuwhu. 
 I'm a JavaScript Developer with industry experience in building scalable and performant applications that runs on the web and your smart phone with cutting-edge technology.
 
