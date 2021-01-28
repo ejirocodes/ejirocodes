@@ -8,7 +8,7 @@ My name is Ejiro Asiuwhu. I'm a JavaScript Developer with industry experience in
 
 ⚡️ **More about me**
  <!--- - 🌱 I’m currently learning React Native -->
-- 💬 Ask me about anything about JavaScript, React/Nextjs/RN, Vue/Nuxt, Nodejs, Frontend Development Web Accessibility, Technical Writing 
+- 💬 Ask me about anything about JavaScript, React/Nextjs/RN, Vue/Nuxt, Nodejs, SPA, PWA, Web Accessibility, Technical Writing 
 - 📫 How to reach me: [@ejirocodes](https://twitter.com/ejirocodes)
 - ⚡ Fun fact: I love cycling 🚴🏾‍♂️
 
