@@ -1,5 +1,5 @@
 ### You there? 🤷
-Oh, well! I love to call myself a JavaScript Developer with industry experience in building scalable and performant applications that runs on the web and your smartphone with cutting-edge technology. I author meaningful technical content, occasionally.
+Oh, well! I love to call myself a JavaScript Developer with industry experience in building scalable and performant applications that runs on the web and your smartphone with cutting-edge technology. I author meaningful technical content, regularly.
 
 ⚡️ **What I do**
 - 🛠 Frontend Developer at [Codekago Interactive](https://codekago.com/) 
@@ -7,8 +7,8 @@ Oh, well! I love to call myself a JavaScript Developer with industry experience 
 - ✍🏾 I write occasionally on [Medium](https://medium.com/@ejirocodes) & [Hashnode](https://ejiro.hashnode.dev/) 
 
 ⚡️ **More about me**
- <!--- - 🌱 I’m currently learning React Native -->
-- 💬 Ask me about anything about JavaScript, React/Nextjs/RN, Vue/Nuxt, Nodejs, SPA, PWA, Web Accessibility, Technical Writing 
+- 🌱 I’m currently learning React Native
+- 💬 Ask me about anything about JavaScript, React/Nextjs, Vue/Nuxt, Nodejs, SPA, PWA, Web Accessibility, Technical Writing 
 - 📫 How to reach me: - Twitter: [@ejirocodes](https://twitter.com/ejirocodes), - LinkedIn: [Ejiro Asiuwhu](https://www.linkedin.com/in/ejiro-asiuwhu), - Mail: [Send a mail!](mailto:ejiroasiuwhu10@gmail.com)
 
 - ⚡ Fun fact: I love cycling 🚴🏾‍♂️
