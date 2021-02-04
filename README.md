@@ -9,8 +9,10 @@ Oh, well! I love to call myself a JavaScript Developer with industry experience 
 ⚡️ **More about me**
  <!--- - 🌱 I’m currently learning React Native -->
 - 💬 Ask me about anything about JavaScript, React/Nextjs/RN, Vue/Nuxt, Nodejs, SPA, PWA, Web Accessibility, Technical Writing 
-- 📫 How to reach me: [@ejirocodes](https://twitter.com/ejirocodes)
+- 📫 How to reach me: - Twitter: [@ejirocodes](https://twitter.com/ejirocodes), - LinkedIn: [Ejiro Asiuwhu](https://www.linkedin.com/in/ejiro-asiuwhu), - Mail: [Send a mail!](mailto:ejiroasiuwhu10@gmail.com)
+
 - ⚡ Fun fact: I love cycling 🚴🏾‍♂️
+
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ejirocodes&show_icons=true&theme=tokyonight&line_height=52&count_private=true" />
