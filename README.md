@@ -1,5 +1,5 @@
 ### You there? 🤷
-Oh, well! I'm a JavaScript Developer with industry experience in building scalable and performant applications that runs on the web and your smartphone with cutting-edge technology.
+Oh, well! I love to call myself a JavaScript Developer with industry experience in building scalable and performant applications that runs on the web and your smartphone with cutting-edge technology. I author meaningful technical content, occasionally.
 
 ⚡️ **What I do**
 - 🛠 Frontend Developer at [Codekago Interactive](https://codekago.com/) 
