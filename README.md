@@ -2,7 +2,7 @@
 Oh, well! I love to call myself a JavaScript Developer with industry experience in building scalable and performant applications that run on the web and your smartphone with cutting-edge technology. I author meaningful technical content, regularly.
 
 ⚡️ **What I do**
-- 🛠 Frontend Developer at [Codekago Interactive](https://codekago.com/) 
+<!--  - 🛠 Frontend Developer at [Codekago Interactive](https://codekago.com/) -->
 - 📝 Technical Author at [Logrocket](https://blog.logrocket.com/author/ejiroasiuwhu/) 
 - ✍🏾 I write occasionally on [Medium](https://medium.com/@ejirocodes) & [Hashnode](https://ejiro.hashnode.dev/) 
 
