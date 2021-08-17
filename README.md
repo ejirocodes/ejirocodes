@@ -3,6 +3,7 @@ Oh, well! I love to call myself a JavaScript Developer with industry experience 
 
 ⚡️ **What I do**
 <!--  - 🛠 Frontend Developer at [Codekago Interactive](https://codekago.com/) -->
+- 📝 Currently Building [Spasora](https://spasora.com/)
 - 📝 Technical Author at [Logrocket](https://blog.logrocket.com/author/ejiroasiuwhu/), [Strapi](https://strapi.io/blog/build-a-to-do-app-with-svelte-strapi-tailwind-css)  
 - ✍🏾 I write occasionally on [Medium](https://medium.com/@ejirocodes) & [Hashnode](https://ejiro.hashnode.dev/) 
 
