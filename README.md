@@ -31,4 +31,5 @@ Oh, well! I love to call myself a JavaScript Developer with industry experience 
 </div>
 
 ![Profile views](https://gpvc.arturio.dev/ejirocodes)
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1871?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
