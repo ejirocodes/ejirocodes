@@ -1,7 +1,5 @@
 ### You there? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-Oh, well! I love to call myself a JavaScript Developer with industry experience in building scalable and performant applications that run on the web and your smartphone with cutting-edge technology. I build scalable products regardless of the JavaScript framework!. 
-
-I author meaningful technical content, regularly.
+Oh, well! I love to call myself a JavaScript Developer with industry experience in building scalable and performant applications that run on the web and your smartphone with cutting-edge technology. I build scalable products regardless of the JavaScript framework and I author meaningful technical content, regularly.
 
 ⚡️ **What I do**
 <!--  - 🛠 Frontend Developer at [Codekago Interactive](https://codekago.com/) -->
