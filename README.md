@@ -13,7 +13,13 @@ Oh, well! I love to call myself a JavaScript Developer with industry experience 
 - 📫 How to reach me: - Twitter: [@ejirocodes](https://twitter.com/ejirocodes), - LinkedIn: [Ejiro Asiuwhu](https://www.linkedin.com/in/ejiro-asiuwhu), - Mail: [Send a mail!](mailto:ejiroasiuwhu10@gmail.com)
 
 - ⚡ Fun fact: I love cycling 🚴🏾‍♂️
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=ejirocodes&labels=true"
+/>
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ejirocodes&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 <!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ejirocodes&show_icons=true&theme=vue&line_height=52&count_private=true" />
