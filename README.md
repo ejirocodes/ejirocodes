@@ -31,7 +31,7 @@ Oh, well! I love to call myself a JavaScript Developer with industry experience 
 </div>
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ejirocodes&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ejirocodes&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="700"
 />
 
 ![Profile views](https://gpvc.arturio.dev/ejirocodes)
