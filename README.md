@@ -1,5 +1,5 @@
 ### You there? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-Oh, well! I love to call myself a JavaScript Developer with industry experience in building scalable and performant applications that run on the web and your smartphone with cutting-edge technology. I build scalable products regardless of the JavaScript framework and I author meaningful technical content, regularly.
+Frontend Engineer with rock-solid experience in building complex interactive applications with JavaScript, TypeScript Vue.js, NuxtJS, React, Next.js and other tools in the JavaScript ecosystem. Decomposing complex problems into logic, data, and UI components are my forte, and despite JavaScript frameworks, I build products that scale well 🚀. I author meaningful technical content, regularly ✍🏽.
 
 ⚡️ **What I do**
 <!--  - 🛠 Frontend Developer at [Codekago Interactive](https://codekago.com/) -->
