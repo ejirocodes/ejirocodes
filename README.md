@@ -2,7 +2,7 @@
 Frontend Engineer with rock-solid experience in building complex interactive applications with JavaScript, TypeScript Vue.js, NuxtJS, React, Next.js and other tools in the JavaScript ecosystem. Decomposing complex problems into logic, data, and UI components are my forte, and despite JavaScript frameworks, I build products that scale well 🚀. I author meaningful technical content, regularly ✍🏽.
 
 ⚡️ **What I do**
-<!--  - 🛠 Frontend Developer at [Codekago Interactive](https://codekago.com/) -->
+- 🛠 Frontend Engineer at [Arceptive](https://arceptive.com/)
 - 🛠️ Currently building [Spasora](https://spasora.com/)
 - 📝 Technical Author at [Logrocket](https://blog.logrocket.com/author/ejiroasiuwhu/), [Strapi](https://strapi.io/blog/build-a-to-do-app-with-svelte-strapi-tailwind-css)  
 - ✍🏾 I write occasionally on [Medium](https://medium.com/@ejirocodes) & [Hashnode](https://ejiro.hashnode.dev/) 
