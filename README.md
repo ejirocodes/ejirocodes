@@ -3,7 +3,7 @@ Frontend Engineer with rock-solid experience in building complex interactive app
 
 ⚡️ **What I do**
 - 👨🏽‍💻 Frontend Engineer at [Arceptive](https://arceptive.com/)
-- ⚙️ Currently building [Spasora](https://spasora.com/)
+- ⚙️ Currently building [Spasora](https://spasora.com/), [CanIJob](https://canijob.com/)
 - 📝 Technical Author at [Logrocket](https://blog.logrocket.com/author/ejiroasiuwhu/), [Strapi](https://strapi.io/blog/how-to-build-an-invoice-generator-app-with-next-js-strapi-and-tailwind-css)  
 - ✍🏾 I write occasionally on [Medium](https://medium.com/@ejirocodes) & [Hashnode](https://ejiro.hashnode.dev/) 
 
