@@ -34,6 +34,8 @@ Software Developer with rock-solid experience in building complex interactive ap
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ejirocodes&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="700"
 />
 
-![Profile views](https://gpvc.arturio.dev/ejirocodes)
+[![wakatime](https://wakatime.com/badge/user/554b82e4-60fe-46d0-9a38-3eb323502b59.svg)](https://wakatime.com/@554b82e4-60fe-46d0-9a38-3eb323502b59)
+
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1871?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
+![Profile views](https://gpvc.arturio.dev/ejirocodes)
