@@ -8,7 +8,7 @@ Software Developer with rock-solid experience in building complex interactive ap
 - ✍🏾 I write occasionally on [Medium](https://medium.com/@ejirocodes) & [Hashnode](https://ejiro.hashnode.dev/) 
 
 ⚡️ **More about me**
-- 🌱 I’m currently learning React Native and GraphQL
+- 🌱 I’m currently learning whatever is needed to build shit 💪
 - 💬 Ask me about anything about Web Engineering, JavaScript, React/Nextjs, Vue/Nuxt, Ionic Framework, Nodejs, SPAs, PWAs, Web Accessibility, UX, Technical Writing 
 - 📫 How to reach me: - Twitter: [@ejirocodes](https://twitter.com/ejirocodes), - LinkedIn: [Ejiro Asiuwhu](https://www.linkedin.com/in/ejiro-asiuwhu), - Mail: [Send a mail!](mailto:ejiroasiuwhu10@gmail.com)
 
