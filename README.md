@@ -12,7 +12,7 @@ Software Developer with rock-solid experience in building complex interactive ap
 - 💬 Ask me about anything about Web Engineering, JavaScript, React/Nextjs, Vue/Nuxt, Ionic Framework, Nodejs, SPAs, PWAs, Web Accessibility, UX, Technical Writing 
 - 📫 How to reach me: - Twitter: [@ejirocodes](https://twitter.com/ejirocodes), - LinkedIn: [Ejiro Asiuwhu](https://www.linkedin.com/in/ejiro-asiuwhu), - Mail: [Send a mail!](mailto:ejiroasiuwhu10@gmail.com)
 
-- ⚡ Fun fact: I love cycling 🚴🏾‍♂️
+<!-- - ⚡ Fun fact: I love cycling 🚴🏾‍♂️ -->
 
 
 <!-- <p>
