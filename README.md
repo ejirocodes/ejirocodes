@@ -4,7 +4,6 @@ I'm a Software Developer with rock-solid experience in building complex interact
 ⚡️ **What I do**
 - 👨🏽‍💻 Frontend Engineer at [Arceptive](https://arceptive.com/)
 - ⚙️ Currently building [Veet](https://veethq.com/)
-<!-- - [CanIJob](http://www.canijob.com/) -->
 - 🛠 Scaling [Spasora](https://spasora.com/)
 - 📝 Technical Author at [Logrocket](https://blog.logrocket.com/author/ejiroasiuwhu/), [Strapi](https://strapi.io/blog/how-to-build-an-invoice-generator-app-with-next-js-strapi-and-tailwind-css), [Smashing Magazine](https://www.smashingmagazine.com/author/ejiro-asiuwhu/)  
 - ✍🏾 I write occasionally on [Medium](https://medium.com/@ejirocodes) & [Hashnode](https://ejiro.hashnode.dev/) 
@@ -15,7 +14,7 @@ I'm a Software Developer with rock-solid experience in building complex interact
 - 📫 How to reach me: - Twitter: [@ejirocodes](https://twitter.com/ejirocodes), - LinkedIn: [Ejiro Asiuwhu](https://www.linkedin.com/in/ejiro-asiuwhu), - Mail: [Send a mail!](mailto:ejiroasiuwhu10@gmail.com)
 
 <!-- - ⚡ Fun fact: I love cycling 🚴🏾‍♂️ -->
-
+<!-- - [CanIJob](http://www.canijob.com/) -->
 
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ejirocodes&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="700"
