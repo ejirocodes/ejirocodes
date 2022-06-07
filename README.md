@@ -1,5 +1,5 @@
 ### Yo!
-I'm a software engineer with four years of experience crafting delightful experiences and products with web technologies. Decomposing complex problems into logic, data, and UI components are my forte, and despite JavaScript frameworks, I build products that scale well 🚀. I also author meaningful technical content, regularly ✍🏽.
+Software engineer with four years of experience crafting delightful experiences and products with web technologies. Decomposing complex problems into logic, data, and UI components are my forte, and despite JavaScript frameworks, I build products that scale well 🚀. I also author meaningful technical content, regularly ✍🏽.
 
 ⚡️ **What I do**
 - 👨🏽‍💻 Frontend Engineer at [Arceptive](https://arceptive.com/)
