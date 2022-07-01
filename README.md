@@ -1,5 +1,5 @@
 ### Yo!
-Software engineer with four years of experience crafting delightful experiences and products with web technologies. Decomposing complex problems into logic, data, and UI components are my forte, and despite JavaScript frameworks, I build products that scale well 🚀. I also author meaningful technical content, regularly ✍🏽.
+I'm a Software engineer with ~4 years of experience crafting delightful experiences and products with web technologies. Decomposing complex problems into logic, data, and UI components are my forte, and despite JavaScript frameworks, I build products that scale well 🚀. I also author meaningful technical content, regularly ✍🏽.
 
 ⚡️ **What I do**
 - 👨🏽‍💻 Frontend Engineer at [Arceptive](https://arceptive.com/)
@@ -10,7 +10,7 @@ Software engineer with four years of experience crafting delightful experiences 
 
 ⚡️ **More about me**
 - 🌱 I’m currently learning whatever is needed to build shit 💪
-- 💬 Ask me about anything about Web Engineering, JavaScript, React/Nextjs, Vue/Nuxt, Ionic Framework, Nodejs, SPAs, PWAs, Web Accessibility, UX, Technical Writing 
+- 💬 Ask me about anything about Web Engineering, TypeScript, JavaScript, React/Nextjs, Vue/Nuxt, Ionic Framework, Nodejs, SPAs, PWAs, Web Accessibility, UX, Technical Writing 
 - 📫 How to reach me: - Twitter: [@ejirocodes](https://twitter.com/ejirocodes), - LinkedIn: [Ejiro Asiuwhu](https://www.linkedin.com/in/ejiro-asiuwhu), - Mail: [Send a mail!](mailto:ejiroasiuwhu10@gmail.com)
 
 <!-- - ⚡ Fun fact: I love cycling 🚴🏾‍♂️ -->
