@@ -1,5 +1,12 @@
 ### Yo!
-I'm a Software engineer with ~4 years of experience crafting delightful experiences and products with web technologies. Decomposing complex problems into logic, data, and UI components are my forte, and despite JavaScript frameworks, I build products that scale well 🚀. I also author meaningful technical content, regularly ✍🏽.
+Software Engineer with a drive for building highly scalable and performant web applications. Heavily interested in module federation, micro frontends, state machines, TDD, and system designs. Big on web performance and optimization, advanced component design patterns, a11y, SSR, SSG Incremental Static Regeneration (ISR), and state management. With React and Vue, I craft highly reusable Typescript-heavy component libraries.
+
+An advocate of TypeScript and best industry practices
+
+Core: TypeScript, JavaScript (React, Vue & Node.js)
+
+Technologies and Languages used professionally: JavaScript, Typescript, GraphQL, React, Vue, Node, Redux, Zustand, Vuex / Pinia, GraphQL, Next.js, NuxtJS, Tailwind CSS, Express, Nestjs, MongoDB, Vitest, Jest, Ionic / Capacitor, Firebase, AWS, Heroku, Netlify
+
 
 ⚡️ **What I do**
 - 👨🏽‍💻 Frontend Engineer at [Arceptive](https://arceptive.com/)
