@@ -2,7 +2,7 @@
 
 Software Engineer with a drive for building highly scalable and performant web applications. Heavily interested in module federation, micro frontends, state machines, TDD, and system designs.  Big on web performance and optimization, advanced component design patterns, a11y, SSR, SSG Incremental Static Regeneration (ISR), and state management. Expert at crafting highly reusable Typescript-heavy component libraries.
 
-An advocate of TypeScript and best industry practices
+An advocate of TypeScript and industry best practices
 
 Core: TypeScript, JavaScript (React, Vue & Node.js)
 
