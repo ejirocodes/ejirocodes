@@ -1,6 +1,6 @@
 ### Yo!
 
-Software Engineer with a drive for building highly scalable and performant web applications. Heavily interested in module federation, micro frontends, state machines, TDD, and system designs.  Big on web performance and optimization, component design patterns, a11y, SSR, SSG, Incremental Static Regeneration (ISR), state management. Expert at crafting highly reusable Typescript-heavy component libraries.
+Software Engineer with a drive for building highly scalable and performant web applications. Heavily interested in module federation, micro frontends, state machines, TDD, and system designs.  Big on web performance and optimization, component design patterns, a11y, SSR, SSG, state management. Expert at crafting highly reusable Typescript-heavy component libraries.
 
 An advocate of TypeScript and industry best practices
 
