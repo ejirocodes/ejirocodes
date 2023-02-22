@@ -1,6 +1,6 @@
 ### Yo!
 
-Product-driven Software Engineer with ~4 years of experience in building highly scalable and performant web applications. 
+Product-driven Software Engineer with 4+ years of experience in building highly scalable and performant web applications. 
 
 Heavily interested in module federation, micro frontends, state machines, TDD, and system designs.  Big on web performance and optimization, component design patterns, a11y, SSR, SSG, state management. Expert at crafting highly reusable Typescript-heavy component libraries.
 
