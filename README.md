@@ -23,13 +23,6 @@ Technologies and Languages used professionally: JavaScript, Typescript, GraphQL,
 - 💬 Ask me about anything about Web Engineering, TypeScript, JavaScript, React/Nextjs, Vue/Nuxt, Ionic Framework, Nodejs, SPAs, PWAs, Web Accessibility, UX, Technical Writing 
 - 📫 How to reach me: - Twitter: [@ejirocodes](https://twitter.com/ejirocodes), - LinkedIn: [Ejiro Asiuwhu](https://www.linkedin.com/in/ejiro-asiuwhu), - Mail: [Send a mail!](mailto:ejiroasiuwhu10@gmail.com)
 
-<!-- - ⚡ Fun fact: I love cycling 🚴🏾‍♂️ -->
-<!-- - [CanIJob](http://www.canijob.com/) -->
-<!-- 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ejirocodes&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="700"
-/>
- -->
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1871?logoColor=white%26project=%26recentMS=0%26showProject=false)
+- ⚡ Fun fact: I love cycling 🚴🏾‍♂️
 
 ![Profile views](https://gpvc.arturio.dev/ejirocodes)
