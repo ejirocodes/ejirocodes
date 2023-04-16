@@ -14,7 +14,7 @@ Technologies and Languages used professionally: JavaScript, Typescript, GraphQL,
 ⚡️ **What I do**
 - 👨🏽‍💻 Frontend Engineer at [Arceptive](https://arceptive.com/)
 - ⚙️ Currently building [Veet](https://joinveet.com)
-- 🛠 Scaling [Spasora](https://spasora.com/)
+- 🛠 Built [Spasora](https://spasora.com/)
 - 📝 Technical Author at [Logrocket](https://blog.logrocket.com/author/ejiroasiuwhu/), [Strapi](https://strapi.io/blog/how-to-build-an-invoice-generator-app-with-next-js-strapi-and-tailwind-css), [Smashing Magazine](https://www.smashingmagazine.com/author/ejiro-asiuwhu/)  
 - ✍🏾 I write occasionally on [Medium](https://medium.com/@ejirocodes) & [Hashnode](https://ejiro.hashnode.dev/) 
 
