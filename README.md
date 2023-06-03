@@ -14,7 +14,7 @@ Core: TypeScript, JavaScript (React, Vue & Node.js)
 
 ⚡️ **More about me**
 - 🌱 I’m currently learning whatever is needed to build & ship meaningful products 🚀 
-- 💬 Ask me about anything about Web Engineering, TypeScript, JavaScript, React/Nextjs, Vue/Nuxt, Ionic Framework, Nodejs, SPAs, PWAs, Web Accessibility, UX, Technical Writing 
+- 💬 AMA anything about Web Engineering, TypeScript, JavaScript, React/Nextjs, Vue/Nuxt, Ionic Framework, Nodejs, SPAs, PWAs, Web Accessibility, UX, Technical Writing 
 - 📫 How to reach me: - Twitter: [@ejirocodes](https://twitter.com/ejirocodes), - LinkedIn: [Ejiro Asiuwhu](https://www.linkedin.com/in/ejiro-asiuwhu), - Mail: [Send a mail!](mailto:ejiroasiuwhu10@gmail.com)
 
 - ⚡ Fun fact: I love cycling 🚴🏾‍♂️
