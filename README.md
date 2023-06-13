@@ -9,7 +9,7 @@ Core: TypeScript, JavaScript (React, Vue & Node.js)
 - 👨🏽‍💻 Frontend Engineer at [Arceptive](https://arceptive.com/)
 - ⚙️ Co-founder [Veet](https://joinveet.com)
 - 🛠 Built [Spasora](https://spasora.com/)
-- 📝 Technical Author at [Logrocket](https://blog.logrocket.com/author/ejiroasiuwhu/), [Strapi](https://strapi.io/user/ejiro-asiuwhu), [Smashing Magazine](https://www.smashingmagazine.com/author/ejiro-asiuwhu/)  
+- 📝 Ex Technical Author at [Logrocket](https://blog.logrocket.com/author/ejiroasiuwhu/), [Strapi](https://strapi.io/user/ejiro-asiuwhu), [Smashing Magazine](https://www.smashingmagazine.com/author/ejiro-asiuwhu/)  
 - ✍🏾 I write occasionally on [Medium](https://medium.com/@ejirocodes) & [Hashnode](https://ejiro.hashnode.dev/) 
 
 ⚡️ **More about me**
