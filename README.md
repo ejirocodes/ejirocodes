@@ -19,4 +19,4 @@ Core: TypeScript, JavaScript (React, Vue & Node.js)
 
 - ⚡ Fun fact: I love cycling 🚴🏾‍♂️
 
-![Profile views](https://gpvc.arturio.dev/ejirocodes)
+![Profile views](https://komarev.com/ghpvc/?username=ejirocodes)
