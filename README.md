@@ -1,7 +1,7 @@
 ### Ejiro Asiuwhu - Full-stack Product Engineer
 
 ### TLDR: 
-Ejiro Asiuwhu is Product Engineer working at the intersection of technical execution, product thinking, and design. Three-time founding engineer with experience across Electric Vehicle, AI, Fintech, EdTech, Clean Tech (Air Quality), Event Management, Creative industries.
+Ejiro Asiuwhu is a Product Engineer working at the intersection of technical execution, product thinking, and design. Three-time founding engineer with experience across Electric Vehicle, AI, Fintech, EdTech, Clean Tech (Air Quality), Event Management, Creative industries.
 
 ### Full Bio:
 Experienced product engineer with a proven track record as a three-time founding engineer. I excel in building fast, scalable solutions that drive business growth across diverse sectors including Electric Vehicle, EdTech, Clean Tech (Air Quality), Event Management, and Creative industries. With a combination of technical expertise and strategic vision, I thrive in autonomous environments where I take full ownership of product decisions and contribute to rapid development cycles.
