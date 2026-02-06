@@ -36,5 +36,3 @@ Seeking challenging projects that push the boundaries of software development ac
 - 📫 How to reach me: - Twitter: [@ejirocodes](https://twitter.com/ejirocodes), - LinkedIn: [Ejiro Asiuwhu](https://www.linkedin.com/in/ejiro-asiuwhu), - Mail: [Send a mail!](mailto:ejiroasiuwhu10@gmail.com)
 
 - ⚡ Fun fact: I love cycling 🚴🏾‍♂️
-
-![Profile views](https://komarev.com/ghpvc/?username=ejirocodes)
